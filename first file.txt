@@ -1,1 +1,4 @@
 Hello Git !
+my work in develop
+my feature
+update after release 1.0.0
